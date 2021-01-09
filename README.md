@@ -1,7 +1,4 @@
 
-扫公众号关注不迷路：    
-![https://img-blog.csdnimg.cn/20201019162545488.jpg](https://img-blog.csdnimg.cn/20201019162545488.jpg)
-回复：pythontb
 
 # 更新记录 
 
